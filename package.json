@@ -9,11 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "date-fns": "^2.29.2",
+    "gray-matter": "^4.0.3",
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1"
   },
   "devDependencies": {
+    "@types/jest": "^28.1.8",
     "@types/node": "18.7.13",
     "@types/react": "18.0.17",
     "@types/react-dom": "18.0.6",
