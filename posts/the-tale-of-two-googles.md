@@ -9,7 +9,6 @@ tags:
   - post
   - Opinions
 layout: layouts/posts.njk
-
 ---
 
 Google is a Goliath, it is one of the largest tech companies which has made an impact to practically everyone who has ever gotten on to the World Wide Web. In fact, it has also changed the internet itself. It Search algorithms decide the etiquette of websites, It brought the Ad-Driven model to every content creator out there, YouTube grew into the video destination of world and Android is bringing a computer to ever pocket.

@@ -5,7 +5,6 @@ date: "2018-08-04"
 slug: 6-basic-ux-principles-i-self-learned-as-a-product-manager
 
 
-
 tags: 
   - Product Management 
   - User Experience 

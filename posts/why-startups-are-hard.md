@@ -4,7 +4,6 @@ date: "2017-04-18"
 slug: why-startups-are-hard
 
 
-
 tags: 
   - Entrepreneurship
   - post
