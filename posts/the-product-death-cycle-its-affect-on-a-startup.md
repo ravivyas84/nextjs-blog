@@ -1,7 +1,7 @@
 ---
 title: The Product Death Cycle & Its Affect On A Startup
 date: "2016-04-14"
-slug: the-product-death-cycle-its-affect-on-a-startup/
+slug: the-product-death-cycle-its-affect-on-a-startup
 
 
 
