@@ -8,8 +8,8 @@ export default function Header() {
       <strong>&#123;</strong>
       <a className="nav-item" href="https://ravivyas.com/posts/">All Blogs</a> |
       <a className="nav-item" href="https://ravivyas.com/videos/">Videos</a> |
-      <a className="nav-item" target="_blank" href="https://multiplelenses.com/">Multiple Lenses</a> |
-      <a className="nav-item" target="_blank" href="https://ihatemyspreadsheet.com/">❤️ Spreadsheets</a> 
+      <a className="nav-item" target="_blank" rel="noopener" href="https://multiplelenses.com/">Multiple Lenses</a> |
+      <a className="nav-item" target="_blank" rel="noopener" href="https://ihatemyspreadsheet.com/">❤️ Spreadsheets</a> 
       <strong>&#125;</strong>
       </div>
   </div>)
