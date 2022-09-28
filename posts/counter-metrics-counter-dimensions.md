@@ -1,7 +1,7 @@
 ---
 title: Counter Metrics & Counter Dimensions
 date: "2016-08-18"
-slug: counter-metrics-counter-dimensions/
+slug: counter-metrics-counter-dimensions
 
 
 

@@ -7,7 +7,7 @@ tags:
   - Journey with Azure 
   - Software Development
 layout: layouts/posts.njk
-slug: azure-table-storage-vs-gcp-datastore/
+slug: azure-table-storage-vs-gcp-datastore
 
 ---
 

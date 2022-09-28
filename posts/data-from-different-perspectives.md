@@ -1,7 +1,7 @@
 ---
 title: Data from different perspectives
 date: "2016-07-20"
-slug: data-from-different-perspectives/
+slug: data-from-different-perspectives
 
 
 
