@@ -1,7 +1,12 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
-import { remark } from 'remark'
+import {unified} from 'unified'
+import remarkParse from 'remark-parse'
+import remarkRehype from 'remark-rehype'
+import rehypeRaw from 'rehype-raw'
+import rehypeSanitize from 'rehype-sanitize'
+import rehypeStringify from 'rehype-stringify'
 import html from 'remark-html'
 import { parseISO, format } from 'date-fns'
 import { json } from 'stream/consumers'
@@ -23,7 +28,7 @@ export function getSortedPostsData() {
     const date = parseISO(matterResult.data.date)
     
     const permaLink = format(date, 'yyyy') + "/" +  format(date, 'LL') + "/" + format(date, 'dd') + "/" + matterResult.data.slug
-
+    
     // Combine the data with the id
     return {
       id,
@@ -90,14 +95,24 @@ export async function getPostData(slug: [string]) {
   const id = slug[slug.length-1];
   const fullPath = path.join(postsDirectory, `${id}.md`)
   const fileContents = fs.readFileSync(fullPath, 'utf8')
-
+  
   // Use gray-matter to parse the post metadata section
   const matterResult = matter(fileContents)
 
   // Use remark to convert markdown into HTML string
-  const processedContent = await remark()
-    .use(html)
-    .process(matterResult.content)
+  // const processedContent = await remark()
+  //   .use(html)
+  //   .process(matterResult.content)
+  
+  
+  const processedContent = await unified()
+  .use(remarkParse)
+  .use(remarkRehype, {allowDangerousHtml: true})
+  .use(rehypeRaw)
+  .use(rehypeSanitize)
+  .use(rehypeStringify)
+  .process(matterResult.content)
+  
   const contentHtml = processedContent.toString()
 
   // Combine the data with the id and contentHtml

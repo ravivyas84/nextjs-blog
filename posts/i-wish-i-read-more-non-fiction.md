@@ -24,6 +24,7 @@ Some words are fact, some fiction, and those who wield the power to capture atte
 Here are some of there great quotes I have read recently
 
 **From Atlas Shrugged**
+
 > "It is only in the realm of pure science that truth is an absolute criterion. When we deal with applied science, with technology-we deal with people. And when we deal with people, considerations other than truth enter the question." 
 
 > "Thought is a primitive superstition. Reason is an irrational idea. The childish notion that we are able to think has been mankind's costliest error."
@@ -37,22 +38,27 @@ Here are some of there great quotes I have read recently
 > "The more we know, the more we learn that we know nothing."
 
 **From Dune**
+
 > "There is no escape-we pay for the violence of our ancestors." - from "The Collected Sayings of Muad'Dib" by the Princess Irulan
 
 **From Poems - The Genius Of The Crowd, By Charles Bukowski**  
 
-``` 
-there is enough treachery, hatred violence absurdity in the average 
-human being to supply any given army on any given day 
 
-and the best at murder are those who preach against it 
-and the best at hate are those who preach love 
-and the best at war finally are those who preach peace 
-
-those who preach god, need god 
-those who preach peace do not have peace 
-those who preach peace do not have love 
-```
+> There is enough treachery, hatred violence absurdity in the average 
+> 
+> human being to supply any given army on any given day 
+> 
+> and the best at murder are those who preach against it 
+> 
+> and the best at hate are those who preach love 
+> 
+> and the best at war finally are those who preach peace 
+> 
+> those who preach god, need god 
+> 
+> those who preach peace do not have peace 
+> 
+> those who preach peace do not have love 
 
 From Popular Quotes
 > "He who has a Why to live for can bear almost any How."  - Nietzsche

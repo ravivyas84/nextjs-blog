@@ -24,7 +24,7 @@ The right question is, **when did the users churn?** Figure that out, and you wo
 
 On the journey of discovering when, the first thing you should figure out is your User Life Cycle. Once you have that figured out, you know where your users drop, which gives you insights as to why you are loosing your users. Here is a model that would fit for most Apps/Sites.
 
-![]({{site.url}}/assets/53719-1ytrencmvi1xgurbtmnnqxq.png)
+![](/assets/53719-1ytrencmvi1xgurbtmnnqxq.png)
 
 The diagram basically splits your lifecycle into 3 important phases Acquisition, Activation & Conversion. Your users will go through these stages and based on various factors will drop off at various points. It lists the possible scenarios as to why your users would leave at that stage.
 

@@ -18,7 +18,7 @@ _The Indian mobile internet ecosystem has grown a lot recently, but we are still
 _This post originally was written by me on [YourStory](https://yourstory.com/2017/06/india-mobile-base-economy)_
 
 
-![]({{site.url}}/assets/yourstory-affordable-mobile.png)
+![](/assets/yourstory-affordable-mobile.png)
 
 Image: Shutterstock
 
@@ -40,7 +40,7 @@ _(Data from TRAI reports)_
 
 Here is how India is doing vis-à-vis mobile internet
 
-![]({{site.url}}/assets/01-1-1.jpg)
+![](/assets/01-1-1.jpg)
 
 Overall:
 
@@ -49,7 +49,7 @@ Overall:
 - Mobile has been the main mode of accessing the internet. It grew from 72 percent in December 2013 to 92 percent in February 2017.
 - The percentage of users consuming data has also been steadily increasing, but its growth rate has been inconsistent. Sadly, three out of four individuals don’t use data on their phone yet.
 
-![]({{site.url}}/assets/02-1-1.jpg)
+![](/assets/02-1-1.jpg)
 
 ## We need to be wary of short-term growth metrics
 
@@ -64,7 +64,7 @@ Overall:
 
 Shipments of smartphones have not shown consistent growth. Growth is steadily declining, and one way I look at it is those who could buy a smartphone did, the rest are waiting for their purchasing power to increase. With that being the case, mobile internet is bound to plateau again given the fact that around 300 million smartphones have been shipped to India in the last four years.
 
-![]({{site.url}}/assets/03-1-1.jpg)
+![](/assets/03-1-1.jpg)
 
 ## What happens from here?
 

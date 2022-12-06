@@ -12,7 +12,7 @@ tags:
   - post
 layout: layouts/posts.njk
 ---
-![]({{ site.url }}/assets/neonbrand-395901-unsplash.jpg)
+![](/assets/neonbrand-395901-unsplash.jpg)
 
 I recently gave a talk at a "She Leads Tech" event hosted by YourStory and Facebook for the women entrepreneurs community, this is the presentation I gave there.
 
@@ -72,7 +72,7 @@ Your cash flow will be the lifeblood of your startup. Projecting finances will g
 
 Below is a screenshot of a (not so simple) projection variant we made for PureMetircs, which poked a few too many holes in our business model.
 
-![Sample Finance Projection]({{ site.url }}/assets/screen-shot-2018-09-03-at-16-37-57-e1535972939338.png)
+![Sample Finance Projection](/assets/screen-shot-2018-09-03-at-16-37-57-e1535972939338.png)
 
 ### 5.4 Looking ahead, makes it easier to delegate
 

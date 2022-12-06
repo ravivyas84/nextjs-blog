@@ -11,23 +11,23 @@ slug: hey-com-the-craft-of-simplicity-and-opinions
 
 ---
 
-‪I got access to hey.com yesterday. I went from meh another service to “oh shit I got it”, biases are so hard to beat. Now to the product.
+I got access to hey.com yesterday. I went from meh another service to “oh shit I got it”, biases are so hard to beat. Now to the product.
 
 ## Product Craft
 
 A lot has been discussed on the product already. I am not touching the popular topics.
 
-‪The folks over at Basecamp have put so much thought into Hey. They have not assumed anything on the part of the user, to the extent they have this elaborate onboarding tutorial, which spreads across emails and hints, which works for non-power users. 
+The folks over at Basecamp have put so much thought into Hey. They have not assumed anything on the part of the user, to the extent they have this elaborate onboarding tutorial, which spreads across emails and hints, which works for non-power users. 
 
-![]({{ site.url }}/assets/onboarding.png)
+![](/assets/onboarding.png)
 
-![]({{ site.url }}/assets/bucketing_2.png)
+![](/assets/bucketing_2.png)
 
 For the power users, you have keyboard shortcuts and quick menus.
 
-![]({{ site.url }}/assets/keyboardshortcuts.png)
+![](/assets/keyboardshortcuts.png)
 
-![]({{ site.url }}/assets/heymenu.png)
+![](/assets/heymenu.png)
 
 > Hey has no resemblance to any other email client/service. There is **no left navigation bar, no settings panel, no signature selector**.
 
@@ -37,11 +37,11 @@ To understand why they removed so many “features,” you need to understand th
 
 You do not need a left menu bar; instead, you use Search and email groups like imbox, newsfeed, etc. What is left is a crisp, focused reading experience. I have been forwarding emails to my Hey account just to read them =\]
 
-![]({{ site.url }}/assets/focus.png)
+![](/assets/focus.png)
 
 Even the unnecessary dopamine hit of unread count does not exist
 
-![]({{ site.url }}/assets/nounreadcount.png)
+![](/assets/nounreadcount.png)
 
 Bye Unread Count
 

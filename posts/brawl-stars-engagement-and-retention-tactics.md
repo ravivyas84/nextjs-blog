@@ -19,7 +19,7 @@ A few days ago I started playing SuperCell's new game Brawl Stars. First of if y
 
 Brawl Starts top down shooter with different modes, one of which is the now popular Death match. You play as one of the 20+ Brawlers as you team up with 2 others players in most of the modes. 
 
-![]({{site.url}}/assets/fullsizeoutput_547d.jpeg)
+![](/assets/fullsizeoutput_547d.jpeg)
 
 Brawl Stars
 
@@ -31,7 +31,7 @@ If you have never played any of the SuperCell games here are some important game
 - As you progress in trophies, you unlock Brawlers and also win boxes.
 - Boxes contain various items from power ups to brawlers and coins. You can also buy the items using coins and gems. Gems are core to the monetisation strategy as they can be acquired though In App Purchases.
 
-![]({{site.url}}/assets/fullsizeoutput_547c.jpeg)
+![](/assets/fullsizeoutput_547c.jpeg)
 
 The Main Screen
 
@@ -55,7 +55,7 @@ Super cell has implements various mechanics to make sure the players continue to
 
 When you finish a match, you are provided with an option to continue to play with your team. When you do find a good team, this is a massive incentive for the players to continue to play.
 
-![]({{site.url}}/assets/fullsizeoutput_5475.jpeg)
+![](/assets/fullsizeoutput_5475.jpeg)
 
 Post Match Screen. Good games makes players want to continue with the same team, in this case even after a loss
 
@@ -63,13 +63,13 @@ Post Match Screen. Good games makes players want to continue with the same team,
 
 #### Leveraging Maps and Game Types
 
-![]({{site.url}}/assets/fullsizeoutput_5478.jpeg)
+![](/assets/fullsizeoutput_5478.jpeg)
 
 SuperCell has set up an ingenious set of mechanism for players to come back daily. They leverage the various game type and maps for this. Every day they cycle through maps available for users to play. When you unlock a mode you get 10 tokens, basically free tokens, IF they come back to the game daily. To further incentive the players, they provide a Star Token to the player if the player wins in this new map. 100 Tokens gives the user a Brawl box, and 10 Star tokens give the player a Big Brawl Box. Which help in player progression.
 
 #### Free Items
 
-![]({{site.url}}/assets/fullsizeoutput_547e.jpeg)
+![](/assets/fullsizeoutput_547e.jpeg)
 
 Another tactic they use is by providing daily upgrades in the store, one of which is always free, while the rest can be purchased by spending coins, which are acquired when you win Brawl Boxes. As items are cycled daily, it becomes an incentive for players to come back daily. 
 

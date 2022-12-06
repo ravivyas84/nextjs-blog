@@ -9,7 +9,7 @@ layout: layouts/posts.njk
 slug: notes-on-note-taking
 
 ---
-![]({{ site.url }}/assets/lucrezia-carnelos-asm4t46tqcu-unsplash.jpg)
+![](/assets/lucrezia-carnelos-asm4t46tqcu-unsplash.jpg)
 
 Yesterday I had the privilege of being a guest on [Mohammad Najmuzzaman](https://twitter.com/naz_09) channel on Leher where we discussed note-taking. 
 

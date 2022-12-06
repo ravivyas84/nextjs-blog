@@ -32,7 +32,7 @@ Retention is an important metric, it almost defines if your product has failed o
 
 Churn is a counter metric to acquisition, the problem with churn is it is relatively lagging indicator. Another counter metric to acquisition is activation, which in fact itself is a leading indicator of churn, users who don’t activation will churn. In such scenarios it would be good to look at what we call counter dimensions. A great counter dimension to acquisition is Sessions on Day-Zero (unless you are a utility app which is not really needed to be used more than once a day, in such case try Day-2 Sessions or Week-Zero Sessions.Number of sessions new users are doing
 
-![]({{site.url}}/assets/counter-metrics-image.png)
+![](/assets/counter-metrics-image.png)
 
 Day - 0 Sessions
 
@@ -42,11 +42,11 @@ This chart maps your acquisitions to the number of sessions they had on Day-0, a
 
 Counter dimensions also remove the vanity out of metric. Previously, we mentioned how we strongly believe time spent, in itself, is a vanity metric, but if you split time spent by purchase count you get to see a whole different picture of the metric. The same can be said about DAUs. DAUs tell you that you had X users active on that day, nothing more, nothing less. But if you were to split your DAUs by user recency you get a different picture. Take the 2 DAU graphs below for example, both have the same Daily users and DAU is growing. But if you break down both the graphs by user recency, you get 2 totally different insights.
 
-![]({{site.url}}/assets/counter-metrics-image-1.png)
+![](/assets/counter-metrics-image-1.png)
 
 DAU driven by acquisitions
 
-![]({{site.url}}/assets/counter-metrics-image-2.png)
+![](/assets/counter-metrics-image-2.png)
 
 DAU driven by retention
 
@@ -54,7 +54,7 @@ The first chart has DAUs growing purely driven by new acquisitions, which also m
 
 At times counter dimensions become just required dimensions, this is one of the reasons companies tend to split revenue by new and old users, A great example is given in the tweet by Grofers CEO, Albinder Dhindsa
 
-[![]({{site.url}}/assets/counter-metrics-image-3.png)](https://twitter.com/albinder/status/716907511928979456)
+[![](/assets/counter-metrics-image-3.png)](https://twitter.com/albinder/status/716907511928979456)
 
 It just goes to show that old users are spending more on the App when compared to new users.
 

@@ -27,7 +27,7 @@ Managed services abstract out service management and scaling. They vary from jus
 Depending on your needs you can pick services between the 3 abstraction types.  
 IaaS, PaaS & Faas  
 
-![]({{site.url}}/assets/azure-image-13.png)
+![](/assets/azure-image-13.png)
 
 ### Additional Abstraction
 
@@ -45,11 +45,11 @@ There are many ways to build an Azure Function, you can write an Azure Function 
 
 Head over to the Azure Portal and select Create a Resource (1) and then select Serverless Function App (2)  
 
-![]({{site.url}}/assets/azure-image-4.png)
+![](/assets/azure-image-4.png)
 
 Next the next Blade you can name your app (3), select subscription (the billing account) and the hosting plan and OS amongst other things. These are important choices. For example, Python is only available on Linux, and Linux is only available in a few regions. The important option here is the hosting plan (4). You have 2 options here:   
 
-![]({{site.url}}/assets/azure-image-6.png)
+![](/assets/azure-image-6.png)
 
 1. Consumption plan: Here you only pay for the number of times your function is run
 2. App Service Plan: Here your function run on a dedicated VM run on an App Service, which will cost extra but will be useful in a few cases which are documented [here](https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale# app-service-plan). 
@@ -60,24 +60,24 @@ Lastly, select the Runtime stack (5), I selected Javascript for this tutorial.
 
 Press create, this will take a while. The portal will first validate things and then close the blade. Don’t worry this is normal. 
 
-![]({{site.url}}/assets/azure-image-7.png)
+![](/assets/azure-image-7.png)
 
 You will need a notification pop up which would state that the deployment is in progress.
 
-![]({{site.url}}/assets/azure-image-8.png)
+![](/assets/azure-image-8.png)
 
 Side note: One thing you start noticing is the options/flexibility Azure Functions provides. You will see in the next step too.  
 Once the deployment is done head over to the Functions Resource, you will see the following screen
 
-![]({{site.url}}/assets/azure-image-9.png)
+![](/assets/azure-image-9.png)
 
 Go ahead and click on new functions. Depending on the options you selected you will see different options. For my selected options I see the following 
 
-![]({{site.url}}/assets/azure-image-10.png)
+![](/assets/azure-image-10.png)
 
 Once again for this tutorial, I will select VS Code, post which I am shown two options, publish using VS code or via the Deployment Centre. I will select Direct publish  
 
-![]({{site.url}}/assets/azure-image-5.png)
+![](/assets/azure-image-5.png)
 
 ### Step 2 Install various dependencies
 
@@ -92,7 +92,7 @@ This then gives you the steps to install the following dependencies
 
 Once all of them are installed, we need to move over to VS Code to get started. Open up the Azure panel on VS Code (1), You will see a Functions section, with your subscription plan and your functions plan, select it (2)
 
-![]({{site.url}}/assets/azure-image-11.png)
+![](/assets/azure-image-11.png)
 
 Lastly, click the new Functions button (3) . Now VSCode will first ask you for a location and then will ask you to initialise the project, yes is the obvious selection.  
 VScode will take you through a wizard to create your functions app,   
@@ -106,11 +106,11 @@ VScode will take you through a wizard to create your functions app, 
 For now, just remember triggers are events which cause the function to run, we will take a deeper dive into trigger later  
 Next VSCode will open up the function file index.js, if you don’t see a folder like I do below, open the folder you created during the steps above  
 
-![]({{site.url}}/assets/azure-image-2.png)
+![](/assets/azure-image-2.png)
 
 Now you should see your folder like this 
 
-![]({{site.url}}/assets/azure-image-12.png)
+![](/assets/azure-image-12.png)
 
 Two files which are important are the function code in _index.js_ and the _function.json_ file which defines the bindings for this function. 
 
@@ -128,15 +128,15 @@ This Json file defines the input and output bindings of your function. In case o
 
 To run your function press F5, Your console in VSCode will show something like this   
 
-![]({{site.url}}/assets/azure-image-3.png)
+![](/assets/azure-image-3.png)
 
 If you call the URL without any request parameters you will get the following message   
 
-![]({{site.url}}/assets/azure-image.png)
+![](/assets/azure-image.png)
 
 Just pass a name as a get parameter, like this: [http://localhost:7071/api/HttpTrigger?name=Ravi](http://localhost:7071/api/HttpTrigger?name=Ravi)  
 
-![]({{site.url}}/assets/azure-image-1.png)
+![](/assets/azure-image-1.png)
 
 ## The tutorial works, what next?
 

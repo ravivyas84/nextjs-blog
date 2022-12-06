@@ -18,7 +18,7 @@ The last 2-4 months I have been stuck with a few concepts like [Zooming in and z
 
 Here is a snippet from his book [WTF? What’s the Future and Why It’s Up to Us](https://www.oreilly.com/tim/wtf-book.html)
 
-![Making Maps]({{site.url}}/assets/img_0849.jpg)
+![Making Maps](/assets/img_0849.jpg)
 
 The Concept of Maps is such a brilliant Idea. It encompasses both the concepts I previously wrote about. Zooming in and Zooming out requires that you actually build a map of your Organization. Breaking problems down is actually one of the requirements for building maps.
 

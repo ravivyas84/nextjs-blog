@@ -10,7 +10,7 @@ tags:
 layout: layouts/posts.njk
 
 ---
-![]({{ site.url }}/assets/jimmy-chang-557501-unsplash.jpg)
+![](/assets/jimmy-chang-557501-unsplash.jpg)
 
 
 It's been a year since I started up. Have not found success but learned a lot.

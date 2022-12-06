@@ -14,7 +14,7 @@ slug: the-importance-of-a-community-and-the-a-r-t-model-of-growth
 
 ---
 
-![]({{ site.url }}/assets/perry-grone-lblgffladry-unsplash.jpg)
+![](/assets/perry-grone-lblgffladry-unsplash.jpg)
 
 I have spent the last 5 months working on helping SaaS companies improve their conversions rates with a new product we are building, NextStepHQ. The premise of the product at NextStep was that users need to be nurtured through the funnel.
 
@@ -37,7 +37,7 @@ For me, these are products like Drift, HubSpot, BareMetrics, Stripe, Intercom, D
 
 Thus having relationships is critical for an organization to grow. These relationships are best expressed as a community. Whats a community you ask? It can be as mundane as running a forum or events or can be just an email newsletter that adds values to its readers like Databox's reports which ask its readers for information in exchange for highlighting a quote from them and a backlink
 
-![]({{ site.url }}/assets/databox_email.png)
+![](/assets/databox_email.png)
 
 The Databox mailer
 
@@ -49,7 +49,7 @@ Once you have an audience or a community, it becomes easier to launch & grow as 
 
 Today most effective marketing is not trying to sell to users, rather is it trying to provide value to end-users and build some sort of a relationship or brand affinity, hoping that those users at some point will transact with the brand. All this while knowing well that that transaction may be a one-off thing, but the relationship needs to exist for as long as it can, hoping that the relationship will add value sometime in the future. It is a simple Awareness - Relationship - Transaction Loop.
 
-![]({{ site.url }}/assets/ART_Loop.png)
+![](/assets/ART_Loop.png)
 
 The A-R-T Loop
 

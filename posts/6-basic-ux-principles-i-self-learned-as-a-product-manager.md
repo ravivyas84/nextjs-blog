@@ -29,7 +29,7 @@ An extension of this is keeping a count of the number of clicks and taps needed 
 
 _Your App is not an open-ended RPG_
 
-![martin-reisch-263411-unsplash]({{site.url}}/assets/martin-reisch-263411-unsplash.jpg)
+![martin-reisch-263411-unsplash](/assets/martin-reisch-263411-unsplash.jpg)
 
 _Photo by Martin Reisch on Unsplashh_
 
@@ -37,7 +37,7 @@ This I learned when I was working on an Admin dashboard. Admin dashboards usuall
 
 ## 3\. Respect Muscle memory
 
-![]({{site.url}}/assets/chevy-beat.png)
+![](/assets/chevy-beat.png)
 
 _Missing Rear door handle?_
 

@@ -30,13 +30,13 @@ None of the men were wrong, but none of them were right either. They were right 
 
 In almost all cases, when we as data analyst come across a break in the trend or an interesting observation, we have the urge to investigate and answer the question why. In 1973 P. J. Bickel, E. A. Hammel, J. W. O’Connell also came across a similar observation at the University of California, Berkeley. They noticed that 44% of the men who applied were being admitted when compared to 35% of women, a possible indication of gender bias.
 
-![]({{site.url}}/assets/3c3f0-19qmu_zvyuqp4kajmetxtca.png)
+![](/assets/3c3f0-19qmu_zvyuqp4kajmetxtca.png)
 
 Admission Percentages
 
 So they set out to investigate this by individual department, but interesting found that this was not the case. In Fact, 4 of the top 6 departments were biased towards women.
 
-![]({{site.url}}/assets/12309-1gfmkuqu1x2a15va1zu52lw.png)
+![](/assets/12309-1gfmkuqu1x2a15va1zu52lw.png)
 
 So what happened here? What we just saw was an example of Simpson’s Paradox, which states “a trend appears in different groups of data but disappears or reverses when these groups are combined”. This does not mean we should not drill down, we just just be aware that their may be such discrepancies and more importantly not make any assumptions on the the data as a whole.
 
@@ -56,7 +56,7 @@ Often we keep looking for tools which will magically tell us what works and what
 
 Here is an example of an Active User graph.
 
-![]({{site.url}}/assets/6bbf4-10bkijedfqueyfb088nbwrq.png)
+![](/assets/6bbf4-10bkijedfqueyfb088nbwrq.png)
 
 Active Users
 
@@ -64,19 +64,19 @@ The first thing we notice that DAU growth is stagnant.
 
 But if we split the DAUs by user’s recency, we notice that the App is pretty sticky, close to 50% of the users comeback within 7 days & 25% come back after 7 days, and the percentage of users is just growing. So they are seeing value.
 
-![]({{site.url}}/assets/cc630-1c7el15wzai0dp7juqggrfa.png)
+![](/assets/cc630-1c7el15wzai0dp7juqggrfa.png)
 
 DAUs split by recency
 
 Next if we split the DAUs by sessions per day, we see that most users have only 1 session per day, but you have a consistent percentage of users having more than 2 sessions each day, albeit a small amount.
 
-![]({{site.url}}/assets/276d9-1pcbbidyex9sneqxj4yghjq.png)
+![](/assets/276d9-1pcbbidyex9sneqxj4yghjq.png)
 
 DAUs by session count
 
 If we look at the session data, we again notice that most of the sessions are driven by repeat usage, both within 7 days (recurring) & post a gap of 7 days (resurrected users), which just goes to show that the App has found a good product market fit and just needs to solve the growth issues.
 
-![]({{site.url}}/assets/7af41-1u1g6t0r5e0pnpaqy0vqsig.png)
+![](/assets/7af41-1u1g6t0r5e0pnpaqy0vqsig.png)
 
 Session split by recency
 

@@ -25,7 +25,7 @@ Marketers & Growth Hackers first need to understand what their product is and wh
 
 Unfortunately, I don’t see most folks tracking it, or looking at it when trying to figure out why their retention is bad. To prove my point, I decided to go through all the headlines of articles on [GrowthHackers.com](http://growthhackers.com/). After analyzing around 33K articles and counting the occurrence of each of the 5 stages of the Pirate Metrics model here is what I found.
 
-![1CwXKoDa3relFmwsJzR7uRQ]({{site.url}}/assets/1cwxkoda3relfmwsjzr7urq.png)
+![1CwXKoDa3relFmwsJzR7uRQ](/assets/1cwxkoda3relfmwsjzr7urq.png)
 
 The 5 metrics came up around 800 times, and Activation only 35 times within that. Outside of my personal experiences, I do believe this data goes to show that Activation is a stepchild metric, comparatively little is written about it. One could also conclude most of the “Hacking” going around is rushing to find the returns rather than the value of the investment.
 

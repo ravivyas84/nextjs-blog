@@ -13,7 +13,7 @@ layout: layouts/posts.njk
 
 ---
 
-![]({{site.url}}/assets/pablo-garcia-saldana-94058-unsplash.jpg)
+![](/assets/pablo-garcia-saldana-94058-unsplash.jpg)
 
 This is a phrase I have used a lot in recent meetings in the office. The basic premise is that organizations can't be good at two skills which oppose each other, which basically require a whole different mindset. Here are a few examples
 

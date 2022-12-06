@@ -48,6 +48,6 @@ Each OK moment is either a problem being solved or a spotlight being cast on the
 
 If you are building a product, it is time to stack the OK Product bricks, after all, each innovation we know stands on a stack of others. A point Matt Ridley makes in his book, How Innovation Works.
 
-![]({{site.url}}/assets/innovation.png)
+![](/assets/innovation.png)
 
 OK Moments are no different, so start stacking OK moments across each point of interaction you have with your users to get to the point where everyone else thinks you have figured out your Aha Moment.

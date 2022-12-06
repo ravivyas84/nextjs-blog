@@ -16,15 +16,15 @@ But I do have some issues with the phrase noCode, some of the best noCode tools 
 
 This is where lowCode tools come in. They are tools, which enable you to get started with next to no coding knowledge or computing concepts required, but if you do, they have a massive multiplier effect. One of the examples of this is WebFlow, A product I have been using since 2015. Webflow starts off by being a better page builder, but as you start learning it, and using its features like the CMS, it outshines everything on the web today. Another tool I recently started playing with is Retool, an internal tool/app builder. It allows you to connect to various databases and build any app. I am currently building a Simple Personal CMS. Here are some screenshots 
 
-![]({{ site.url }}/assets/personal-crm.png)
+![](/assets/personal-crm.png)
 
 This is my main timeline view, where I track who I met
 
-![]({{ site.url }}/assets/add_user.png)
+![](/assets/add_user.png)
 
 This is my tab to add a new interation
 
-![]({{ site.url }}/assets/add_event.png)
+![](/assets/add_event.png)
 
 This is my stats/information tab
 

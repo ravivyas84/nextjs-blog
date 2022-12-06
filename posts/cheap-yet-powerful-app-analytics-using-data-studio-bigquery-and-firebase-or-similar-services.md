@@ -52,7 +52,7 @@ Data Studio is a relatively new BI service provided by Google, which is Free to 
 
 With this setup you need to integrate the firebase SDK in your apps to start passing events, and enable the Blaze plan to start pushing the analytics data into BQ. Once this is done you can start using data studio to build simple reports and share them with your organisation. If you have never used a BI tool before, it might take some getting used to but once you do, it will be a breeze to create reports. Here is a super simple report for our Alpha builds.
 
-![]({{site.url}}/assets/85b7a-1qmdu-12bhr4uob-mjk4jfa.png)
+![](/assets/85b7a-1qmdu-12bhr4uob-mjk4jfa.png)
 
 ## Some advantages of this setup
 
@@ -80,6 +80,6 @@ This is the exact setup we have at Odiocast. For the website we are using Segmen
 
 As a bonus, since Firebase is acting as a pipe to BigQuery, We also pass error and info logs when needed. On iOS I am cheating a little and passing message strings of my alert boxes
 
-![]({{site.url}}/assets/5d305-1rgrczridoltlg4b6fzk2lq.png)
+![](/assets/5d305-1rgrczridoltlg4b6fzk2lq.png)
 
 info logs

@@ -19,25 +19,25 @@ Here are some examples of ignorance and abuse
 
 1000 Words, a news media site
 
-![]({{ site.url }}/assets/requests_example_1.png)
+![](/assets/requests_example_1.png)
 
 500 words, a new media site 
 
-![]({{ site.url }}/assets/requests_example_2.png)
+![](/assets/requests_example_2.png)
 
 500 words, a blogging platform
 
-![]({{ site.url }}/assets/requests_example_3.png)
+![](/assets/requests_example_3.png)
 
 600 words, a FAANG company's blog (8 MB is a gif from another post in the "Related" stories section 🤦‍♂️)
 
-![]({{ site.url }}/assets/requests_example_4.png)
+![](/assets/requests_example_4.png)
 
 ## My Blog was at fault too.
 
 I was unhappy with my own Wordpress hosted blog.
 
-![]({{ site.url }}/assets/requests_example_5.png)
+![](/assets/requests_example_5.png)
 
 Part of the ballooning of requests was due to me embedding tweets. Which I could fix easily, but I was largly unhappy with the performance. 
 
@@ -69,7 +69,7 @@ A blog with an average of 500 words a page does not need either.
 **Keep Assets sizes low**
 
 Using large images on a blog is disrespecting users. Why your blog needs to have an 8MB gif is beyond me
-![]({{ site.url }}/assets/madness.png)
+![](/assets/madness.png)
 
 I even ranted about it on Twitter, where I mentioned some tips on optimizing images
 
@@ -82,27 +82,27 @@ The tips are simple
 
 Jusing ImageOptim for this post resulted in a saving of 70%
 
-![]({{ site.url }}/assets/image_performance.png)
+![](/assets/image_performance.png)
 
 ## Results 
 
 ### Network Performance 
 By moving to a static website, I went from 68 Requests and 3.2 MB of resources to 6 requests and 446 KB of resources, of which 424 KB is a single image, making the site faster.
 
-![]({{ site.url }}/assets/requests_example_static_site.png)
+![](/assets/requests_example_static_site.png)
 
 ### Page Speed insights
 This increase in speed improved the performance of the site. Below are page speed insights scores for a post with 6 images (1.4 MB)
 
-![Non Static Site]({{ site.url }}/assets/page_speed_insights.png)
+![Non Static Site](/assets/page_speed_insights.png)
 
-![Static Site]({{ site.url }}/assets/page_speed_insights_static.png)
+![Static Site](/assets/page_speed_insights_static.png)
 
 ### Ranking
 
 Improving the speed also helped me rank higher for my name. I went from ranking 4 or 5 to rank 1 on Google. My average rank is now two or lower. 
 
-![Ranking Change]({{ site.url }}/assets/ranking.png)
+![Ranking Change](/assets/ranking.png)
 
 I did change the content of my home page, it moved from being a list of blogs to an about page, but I was never at rank 1 for the same setup when I was on WordPress. 
 

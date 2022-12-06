@@ -11,7 +11,7 @@ slug: 9-things-to-consider-when-planning-pricing
 
 ---
 
-![]({{ site.url }}/assets/siora-photography-plxgjohmtx8-unsplash.jpg)
+![](/assets/siora-photography-plxgjohmtx8-unsplash.jpg)
 
 _Last week I was supposed to be at an event but it got canceled at the last moment. My topic for the event was Smart Pricing Strategies for Startups. This post is the same deck in the long-form. This post is meant to help early founder think about pricing from multiple angles._
 

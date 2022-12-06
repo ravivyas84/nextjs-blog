@@ -11,7 +11,7 @@ tags:
 layout: layouts/posts.njk
 
 ---
-![]({{site.url}}/assets/233226972_ac8a2f0f6e_z.jpg)
+![](/assets/233226972_ac8a2f0f6e_z.jpg)
 
 Your users aren’t dumb.
 
@@ -24,9 +24,9 @@ If one were to refer to the [Jesse James Garrett Model](http://www.jjg.net/eleme
 
 If you look at the Android platform, Design patterns have come (ActionBar) and gone (QuickActions via Long Press). Some have been great, others not so much. But as such, why a pattern grew to be absorbed by Android or was thrown out, depending on how well that design pattern worked in the real world, and more importantly, did it make the user’s life simpler. Then someone somewhere decided to invent the “Press Back to exit pattern”. Which still lives today
 
-![]({{site.url}}/assets/1-bA139Cvizn7ULwQyfG0_NA.png)
+![](/assets/1-bA139Cvizn7ULwQyfG0_NA.png)
 
-![]({{site.url}}/assets/1-VBVPz04nuGpG4omrHlo9bw.png)
+![](/assets/1-VBVPz04nuGpG4omrHlo9bw.png)
 
 These are top apps using the pattern, in an attempt to, well I guess, to make sure the user does quit the App “by mistake”.
 

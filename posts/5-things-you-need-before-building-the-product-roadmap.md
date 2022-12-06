@@ -16,7 +16,7 @@ layout: layouts/posts.njk
 
 coverImage: "daria-nepriakhina-474036-unsplash.jpg"
 ---
-![]({{ site.url }}/assets/daria-nepriakhina-474036-unsplash.jpg)
+![](/assets/daria-nepriakhina-474036-unsplash.jpg)
 
 
 # What Is A Product Roadmap?
