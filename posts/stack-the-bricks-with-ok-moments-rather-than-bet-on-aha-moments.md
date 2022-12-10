@@ -4,7 +4,6 @@ date: "2020-07-07"
 tags: 
   - Entrepreneurship 
   - Product Management 
-  - post
 slug: stack-the-bricks-with-ok-moments-rather-than-bet-on-aha-moments
 
 layout: layouts/posts.njk

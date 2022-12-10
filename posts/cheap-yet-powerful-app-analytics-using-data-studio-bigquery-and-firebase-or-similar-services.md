@@ -7,7 +7,6 @@ slug: cheap-yet-powerful-app-analytics-using-data-studio-bigquery-and-firebase-o
 
 tags: 
   - Metrics
-  - post
 layout: layouts/posts.njk
 
 ---

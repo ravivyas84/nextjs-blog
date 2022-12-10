@@ -4,7 +4,6 @@ date: "2019-02-07"
  
 tags: 
   - Strategy 
-  - post
   - Podcasts
 layout: layouts/posts.njk
 slug: spotify-is-not-the-netflix-of-audio-its-the-youtube-of-audio

@@ -6,7 +6,6 @@ tags:
   - Community 
   - Entrepreneurship 
   - Growth 
-  - post
 layout: layouts/posts.njk
 
 coverImage: "perry-grone-lblgffladry-unsplash.jpg"

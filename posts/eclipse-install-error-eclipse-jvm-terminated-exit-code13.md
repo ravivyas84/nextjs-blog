@@ -7,7 +7,6 @@ slug: eclipse-install-error-eclipse-jvm-terminated-exit-code13
 
 tags: 
   - Software Development 
-  - post
 layout: layouts/posts.njk
 
 ---

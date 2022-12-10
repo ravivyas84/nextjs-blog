@@ -29,6 +29,8 @@ export function getSortedPostsData() {
     
     const permaLink = format(date, 'yyyy') + "/" +  format(date, 'LL') + "/" + format(date, 'dd') + "/" + matterResult.data.slug
     
+    console.log("Page Data: "+ JSON.stringify(matterResult.data));
+
     // Combine the data with the id
     return {
       id,

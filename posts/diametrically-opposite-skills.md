@@ -8,7 +8,6 @@ slug: diametrically-opposite-skills
 tags: 
   - Management 
   - Strategy 
-  - post
 layout: layouts/posts.njk
 
 ---

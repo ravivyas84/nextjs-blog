@@ -8,7 +8,6 @@ slug: the-product-death-cycle-its-affect-on-a-startup
 tags: 
   - Entrepreneurship 
   - Product Management 
-  - post
 layout: layouts/posts.njk
 
 ---

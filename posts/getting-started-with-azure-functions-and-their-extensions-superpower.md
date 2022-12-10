@@ -4,7 +4,6 @@ date: "2019-03-23"
  
 
 tags: 
-  - post
   - Journey with Azure 
   - Software Development
 layout: layouts/posts.njk

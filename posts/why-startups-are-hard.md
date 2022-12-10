@@ -6,7 +6,6 @@ slug: why-startups-are-hard
 
 tags: 
   - Entrepreneurship
-  - post
 layout: layouts/posts.njk
 
 ---

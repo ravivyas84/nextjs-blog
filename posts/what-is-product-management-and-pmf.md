@@ -4,7 +4,6 @@ date: "2019-07-25"
  
 tags: 
   - Product Management 
-  - post
 layout: layouts/posts.njk
 slug: what-is-product-management-and-pmf
 

@@ -79,6 +79,6 @@ export const getStaticProps: GetStaticProps = async () => {
     props: {
       allPostsData,
       pageData
-    },
+    }
   };
 };

@@ -8,7 +8,6 @@ slug: 6-basic-ux-principles-i-self-learned-as-a-product-manager
 tags: 
   - Product Management 
   - User Experience 
-  - post
 layout: layouts/posts.njk
 
 ---

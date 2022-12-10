@@ -8,7 +8,6 @@ slug: incentives-their-effects-on-products
 
 tags: 
   - Product Management 
-  - post
   - Incentives
 layout: layouts/posts.njk
 

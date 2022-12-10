@@ -6,7 +6,6 @@ slug: the-do-you-want-to-exit-pattern-must-die
 
 
 tags: 
-  - post
   - User Experience 
 layout: layouts/posts.njk
 

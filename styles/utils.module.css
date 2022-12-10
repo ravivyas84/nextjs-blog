@@ -62,3 +62,16 @@
   margin-right: 10px;
   min-width: 150px;
 }
+
+
+.tagListItem{
+  /* margin: 0 0 1rem; */
+  font-size: 1em;
+  line-height: 1.7;
+  color: #666;
+}
+
+.tagListItem a {
+  text-decoration: underline;
+  color: #666;
+}

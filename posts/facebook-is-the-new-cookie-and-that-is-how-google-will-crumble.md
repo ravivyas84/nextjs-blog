@@ -6,7 +6,6 @@ slug: facebook-is-the-new-cookie-and-that-is-how-google-will-crumble
 
 
 tags: 
-  - post
   - Ad Monetization
   - Opinions
 layout: layouts/posts.njk

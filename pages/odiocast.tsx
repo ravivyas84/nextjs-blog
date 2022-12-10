@@ -51,13 +51,9 @@ export default function Home({
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  // Pull 10 posts
-  const allPostsData = getSortedPostsData().slice(0, 9);
-  console.log("Sorted posts:: " + JSON.stringify(allPostsData));
   const pageData = await getPageData("odiocast");
   return {
     props: {
-      allPostsData,
       pageData
     },
   };

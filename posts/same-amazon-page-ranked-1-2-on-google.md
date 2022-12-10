@@ -3,7 +3,6 @@ title: Same Amazon Page ranked 1 & 2 on Google
 date: "2020-04-22"
 tags: 
   - SEO
-  - post
 layout: layouts/posts.njk
 slug: same-amazon-page-ranked-1-2-on-google
 

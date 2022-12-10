@@ -7,7 +7,6 @@ slug: why-product-managers-are-not-mini-ceos
 
 tags: 
   - Product Management 
-  - post
   - Opinions
 layout: layouts/posts.njk
 

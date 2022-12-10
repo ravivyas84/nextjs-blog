@@ -4,7 +4,6 @@ date: "2022-02-18"
 slug: which-game-is-your-startup-playing
 tags: 
   - Entrepreneurship
-  - post
 layout: layouts/posts.njk
 ---
 

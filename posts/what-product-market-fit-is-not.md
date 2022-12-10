@@ -5,7 +5,6 @@ date: "2019-07-13"
 tags: 
   - Entrepreneurship 
   - Product Management 
-  - post
 layout: layouts/posts.njk
 slug: what-product-market-fit-is-not
 

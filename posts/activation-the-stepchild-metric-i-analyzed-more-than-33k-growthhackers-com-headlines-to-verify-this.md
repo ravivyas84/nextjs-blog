@@ -7,7 +7,6 @@ slug: activation-the-stepchild-metric-i-analyzed-more-than-33k-growthhackers-com
 
 tags: 
   - Metrics 
-  - post
 layout: layouts/posts.njk
 
 ---

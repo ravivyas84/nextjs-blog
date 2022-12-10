@@ -4,7 +4,6 @@ date: "2020-08-29"
 slug: moving-to-static-website-retaking-rank-1
 tags: 
   - SEO
-  - post
 layout: layouts/posts.njk
 
 ---

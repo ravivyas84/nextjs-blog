@@ -10,7 +10,6 @@ tags:
   - Entrepreneurship 
   - Growth 
   - Strategy 
-  - post
 layout: layouts/posts.njk
 
 coverImage: "rawpixel-626041-unsplash.jpg"

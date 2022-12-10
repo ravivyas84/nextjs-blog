@@ -3,7 +3,6 @@ title: Hey.com, the Craft of Simplicity and Opinions
 date: "2020-06-18"
  
 tags: 
-  - post
   - Opinions
 layout: layouts/posts.njk
 slug: hey-com-the-craft-of-simplicity-and-opinions

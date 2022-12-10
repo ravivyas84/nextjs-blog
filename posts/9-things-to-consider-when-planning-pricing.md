@@ -4,7 +4,6 @@ date: "2019-11-25"
  
 tags: 
   - Entrepreneurship 
-  - post
   - Pricing
 layout: layouts/posts.njk
 slug: 9-things-to-consider-when-planning-pricing

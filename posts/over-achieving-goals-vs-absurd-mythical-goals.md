@@ -3,7 +3,6 @@ title: Over Achieving Goals Vs Absurd Mythical Goals
 date: "2019-12-04"
 tags:
   - Leadership 
-  - post
 layout: layouts/posts.njk
 slug: over-achieving-goals-vs-absurd-mythical-goals
 

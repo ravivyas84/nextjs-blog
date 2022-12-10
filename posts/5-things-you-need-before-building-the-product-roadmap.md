@@ -6,7 +6,6 @@ slug: 5-things-you-need-before-building-the-product-roadmap
 
 
 tags: 
-  - post
   - Mission
   - Product Management 
   - Product Prioritization

@@ -6,7 +6,6 @@ slug: going-downhill-from-lets-build-it-in-house
 
 
 tags: 
-  - post
   - Product Management
 layout: layouts/posts.njk
 

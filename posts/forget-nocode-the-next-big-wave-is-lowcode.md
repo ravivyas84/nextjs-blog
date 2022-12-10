@@ -4,7 +4,6 @@ date: "2019-12-05"
  
 tags: 
   - NoCode LowCode  
-  - post
 layout: layouts/posts.njk
 slug: forget-nocode-the-next-big-wave-is-lowcode
 

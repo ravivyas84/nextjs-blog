@@ -8,7 +8,6 @@ slug: post-abundance-sales-startups
 tags: 
   - Growth 
   - Strategy 
-  - post
   - Sales 
 layout: layouts/posts.njk
 

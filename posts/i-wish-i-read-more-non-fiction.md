@@ -4,7 +4,6 @@ date: "2022-06-14"
 slug: i-wish-i-read-more-non-fiction
 tags: 
   - PersonalDevelopment
-  - post
 layout: layouts/posts.njk
 ---
 

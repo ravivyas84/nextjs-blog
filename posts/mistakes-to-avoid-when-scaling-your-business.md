@@ -9,7 +9,6 @@ slug: mistakes-to-avoid-when-scaling-your-business
 tags: 
   - Entrepreneurship 
   - Learnings 
-  - post
 layout: layouts/posts.njk
 ---
 ![](/assets/neonbrand-395901-unsplash.jpg)
