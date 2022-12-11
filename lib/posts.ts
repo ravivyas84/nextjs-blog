@@ -35,7 +35,7 @@ export function getSortedPostsData() {
     return {
       id,
       permaLink,
-      ...(matterResult.data as { date: string; title: string })
+      ...(matterResult.data as { date: string; title: string ; tags: string[]})
     }
   })
   // Sort posts by date

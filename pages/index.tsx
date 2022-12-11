@@ -18,6 +18,7 @@ export default function Home({
     title: string;
     id: string;
     permaLink: string;
+    tags: string[];
   }[], pageData: {
     title: string
     date: string
@@ -36,7 +37,7 @@ export default function Home({
         <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
           <h2 className={utilStyles.headingLg}>Latest Blog posts</h2>
           <ul className={utilStyles.list}>
-            {allPostsData.map(({ id, date, title, permaLink }) => (
+            {allPostsData.map(({ id, date, title, permaLink,tags }) => (
               <li className={utilStyles.listItem} key={id}>
                 <small className={utilStyles.lightText}>
                   <Date dateString={date} />
@@ -73,7 +74,7 @@ export default function Home({
 export const getStaticProps: GetStaticProps = async () => {
   // Pull 10 posts
   const allPostsData = getSortedPostsData().slice(0, 9);
-  console.log("Sorted posts:: " + JSON.stringify(allPostsData));
+  console.log("Home Sorted posts:: " + JSON.stringify(allPostsData));
   const pageData = await getPageData("index");
   return {
     props: {
