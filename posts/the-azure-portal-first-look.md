@@ -3,8 +3,8 @@ title: The Azure Portal- First Look
 date: "2019-03-15"
  
 tags: 
-  - Journey with Azure 
-  - Software Development
+  - journey-with-azure 
+  - software-development
 layout: layouts/posts.njk
 slug: the-azure-portal-first-look
 

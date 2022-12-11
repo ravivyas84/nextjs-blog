@@ -7,9 +7,9 @@ slug: breaking-problems-down
 
 
 tags: 
-  - Entrepreneurship 
-  - Growth 
-  - Strategy 
+  - entrepreneurship 
+  - growth 
+  - strategy 
 layout: layouts/posts.njk
 
 coverImage: "rawpixel-626041-unsplash.jpg"

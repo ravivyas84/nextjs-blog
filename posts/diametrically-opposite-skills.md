@@ -6,8 +6,8 @@ slug: diametrically-opposite-skills
 
 
 tags: 
-  - Management 
-  - Strategy 
+  - management 
+  - strategy 
 layout: layouts/posts.njk
 
 ---

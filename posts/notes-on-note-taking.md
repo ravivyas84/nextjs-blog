@@ -3,7 +3,7 @@ title: Notes on Note-taking
 date: "2020-06-22"
 
 tags: 
-  - Productivity
+  - productivity
 layout: layouts/posts.njk
 slug: notes-on-note-taking
 

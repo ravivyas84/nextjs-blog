@@ -3,8 +3,8 @@ title: What Product Market Fit is not
 date: "2019-07-13"
  
 tags: 
-  - Entrepreneurship 
-  - Product Management 
+  - entrepreneurship 
+  - product-management 
 layout: layouts/posts.njk
 slug: what-product-market-fit-is-not
 

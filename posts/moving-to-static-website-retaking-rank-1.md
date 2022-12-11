@@ -3,7 +3,7 @@ title: Moving (back) to a Static website, and retaking rank 1 for my name
 date: "2020-08-29"
 slug: moving-to-static-website-retaking-rank-1
 tags: 
-  - SEO
+  - seo
 layout: layouts/posts.njk
 
 ---

@@ -3,7 +3,7 @@ title: Which Game Is Your Startup Playing?
 date: "2022-02-18"
 slug: which-game-is-your-startup-playing
 tags: 
-  - Entrepreneurship
+  - entrepreneurship
 layout: layouts/posts.njk
 ---
 

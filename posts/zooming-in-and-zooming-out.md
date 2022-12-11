@@ -6,8 +6,8 @@ slug: zooming-in-and-zooming-out
 
 
 tags: 
-  - Leadership 
-  - Product Management 
+  - leadership 
+  - product-management 
 layout: layouts/posts.njk
 
 ---

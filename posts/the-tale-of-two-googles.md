@@ -6,7 +6,7 @@ slug: the-tale-of-two-googles
 
 
 tags: 
-  - Opinions
+  - opinions
 layout: layouts/posts.njk
 ---
 

@@ -6,7 +6,7 @@ slug: data-from-different-perspectives
 
 
 tags: 
-  - Metrics 
+  - metrics 
 layout: layouts/posts.njk
 
 ---

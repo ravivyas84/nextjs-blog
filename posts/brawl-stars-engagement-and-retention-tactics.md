@@ -3,7 +3,7 @@ title: Breaking Down Brawl Star's Engagement and Retention Tactics
 date: "2018-12-18"
  
 tags: 
-  - Growth 
+  - growth 
   - Engagement 
 layout: layouts/posts.njk
 slug: brawl-stars-engagement-and-retention-tactics

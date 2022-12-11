@@ -6,7 +6,7 @@ slug: api-architecture-tips
 
 
 tags: 
-  - Software Development 
+  - software-development 
 layout: layouts/posts.njk
 
 ---

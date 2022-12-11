@@ -3,9 +3,9 @@ title: The importance of a Community, and the A-R-T Model of growth.
 date: "2019-11-13"
  
 tags: 
-  - Community 
-  - Entrepreneurship 
-  - Growth 
+  - community 
+  - entrepreneurship 
+  - growth 
 layout: layouts/posts.njk
 
 coverImage: "perry-grone-lblgffladry-unsplash.jpg"

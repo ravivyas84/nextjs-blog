@@ -2,8 +2,8 @@
 title: Stack the bricks with "OK Moments" rather than bet on "Aha moments"
 date: "2020-07-07"
 tags: 
-  - Entrepreneurship 
-  - Product Management 
+  - entrepreneurship 
+  - product-management 
 slug: stack-the-bricks-with-ok-moments-rather-than-bet-on-aha-moments
 
 layout: layouts/posts.njk

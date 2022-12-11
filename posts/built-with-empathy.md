@@ -7,8 +7,8 @@ slug: built-with-empathy
 
 
 tags: 
-  - Product Management 
-  - User Experience 
+  - product-management 
+  - user-experience 
 layout: layouts/posts.njk
 
 ---

@@ -3,8 +3,8 @@ title: Azure Table Storage vs GCP DataStore
 date: "2019-03-19"
  
 tags: 
-  - Journey with Azure 
-  - Software Development
+  - journey-with-azure 
+  - software-development
 layout: layouts/posts.njk
 slug: azure-table-storage-vs-gcp-datastore
 

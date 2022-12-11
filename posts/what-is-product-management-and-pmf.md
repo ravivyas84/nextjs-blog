@@ -3,7 +3,7 @@ title: What is Product Management and PMF
 date: "2019-07-25"
  
 tags: 
-  - Product Management 
+  - product-management 
 layout: layouts/posts.njk
 slug: what-is-product-management-and-pmf
 

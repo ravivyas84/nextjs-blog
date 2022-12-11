@@ -6,8 +6,8 @@ slug: why-people-fail
 
 
 tags: 
-  - Entrepreneurship 
-  - Leadership 
+  - entrepreneurship 
+  - leadership 
 layout: layouts/posts.njk
 
 ---

@@ -3,7 +3,7 @@ title: Is your market large enough?
 date: "2022-06-05"
 slug: is-your-market-large-enough
 tags: 
-  - Entrepreneurship
+  - entrepreneurship
 layout: layouts/posts.njk
 ---
 Was talking to an entrepreneur a little while he had bounced 2 ideas with me, and my feedback to both was they had a market size problem. 

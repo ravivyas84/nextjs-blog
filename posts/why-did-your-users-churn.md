@@ -6,7 +6,7 @@ slug: why-did-your-users-churn
 
 
 tags: 
-  - Growth 
+  - growth 
 layout: layouts/posts.njk
 
 ---

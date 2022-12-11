@@ -4,8 +4,8 @@ date: "2019-03-23"
  
 
 tags: 
-  - Journey with Azure 
-  - Software Development
+  - journey-with-azure 
+  - software-development
 layout: layouts/posts.njk
 slug: getting-started-with-azure-functions-and-their-extensions-superpower
 

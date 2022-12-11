@@ -7,8 +7,8 @@ slug: drawing-maps-to-understand-your-organization-and-the-future
 
 
 tags: 
-  - Leadership 
-  - Management 
+  - leadership 
+  - management 
 layout: layouts/posts.njk
 
 ---

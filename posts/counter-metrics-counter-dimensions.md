@@ -6,7 +6,7 @@ slug: counter-metrics-counter-dimensions
 
 
 tags: 
-  - Metrics 
+  - metrics 
 layout: layouts/posts.njk
 
 ---

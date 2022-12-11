@@ -41,7 +41,7 @@ export default function Home({
                <small className={utilStyles.lightText}>
                  <Date dateString={date} />
                </small>
-               <Link href={`${permaLink}`}>
+               <Link href={`/${permaLink}`}>
                  <a>{title}</a>
                </Link>
                <br />

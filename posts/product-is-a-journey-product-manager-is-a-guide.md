@@ -3,7 +3,7 @@ title: Your Users are on a Journey with your Product. As a Product Manager you a
 date: "2021-10-31"
 slug: product-is-a-journey-product-manager-is-a-guide
 tags: 
-  - Product Management
+  - product-management
 layout: layouts/posts.njk
 ---
 I must confess, I have a bad habit. I assume people see the world as I do. 

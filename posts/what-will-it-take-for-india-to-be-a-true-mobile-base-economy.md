@@ -6,8 +6,8 @@ slug: what-will-it-take-for-india-to-be-a-true-mobile-base-economy
 
 
 tags: 
-  - India 
-  - Opinions
+  - india 
+  - opinions
 layout: layouts/posts.njk
 
 ---

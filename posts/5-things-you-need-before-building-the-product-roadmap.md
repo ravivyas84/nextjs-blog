@@ -6,11 +6,11 @@ slug: 5-things-you-need-before-building-the-product-roadmap
 
 
 tags: 
-  - Mission
-  - Product Management 
-  - Product Prioritization
-  - Strategy 
-  - Vision
+  - mission
+  - product-management
+  - product-prioritization
+  - strategy
+  - vision
 layout: layouts/posts.njk
 
 coverImage: "daria-nepriakhina-474036-unsplash.jpg"
