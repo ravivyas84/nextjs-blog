@@ -32,7 +32,7 @@ export default function Home({
           <h2 className={utilStyles.headingLg}>Tags</h2>
           <ul className={utilStyles.list}>
           {allTags.map(({ key, value }) => (
-              <li className={utilStyles.tagListItem} >
+              <li className={utilStyles.tagListItem} key={key}>
                 <Link href={`/tag/${key}`}>
                 <a>
                 <span>{key}</span> (<span>{value}</span>)
