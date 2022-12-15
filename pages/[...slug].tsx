@@ -13,6 +13,7 @@ export default function Post({
     date: string
     contentHtml: string
     description: string
+    permaLink: string
   }
 }) {
   return (
@@ -22,6 +23,7 @@ export default function Post({
         <meta name="description" content={postData.description} />
         <meta name="og:description" content={postData.description} />
         <meta name="og:title" content={postData.title} />
+        <link rel="canonical" href={`https://ravivyas.com/${postData.permaLink}`}></link>
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{postData.title}</h1>

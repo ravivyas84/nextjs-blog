@@ -100,6 +100,9 @@ export async function getPostData(slug: [string]) {
   
   // Use gray-matter to parse the post metadata section
   const matterResult = matter(fileContents)
+  const date = parseISO(matterResult.data.date)
+  const permaLink = format(date, 'yyyy') + "/" +  format(date, 'LL') + "/" + format(date, 'dd') + "/" + matterResult.data.slug
+
 
   // Use remark to convert markdown into HTML string
   // const processedContent = await remark()
@@ -120,8 +123,8 @@ export async function getPostData(slug: [string]) {
   // Combine the data with the id and contentHtml
   return {
     id,
-    contentHtml,
-    ...(matterResult.data as { date: string; title: string; description: string;  })
+    contentHtml,permaLink,
+    ...(matterResult.data as { date: string; title: string; description: string; })
   }
 }
 
