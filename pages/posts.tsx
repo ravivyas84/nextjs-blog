@@ -8,6 +8,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import Date from "../components/date";
 import Header from "../components/headers/Header";
+import Footer from "../components/footers/Footer";
 
 export default function Home({
   allPostsData,
@@ -46,18 +47,7 @@ export default function Home({
           </section>
       </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{" "}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
+    <Footer />
     </div>
   );
 }

@@ -8,6 +8,7 @@ twitter: https://twitter.com/search?q=https%3A%2F%2Fravivyas.com%2F2022%2F06%2F1
 tags: 
   - web3
 layout: layouts/posts.njk
+description: My opinions on Web3 and why it is flawed
 ---
 *A few quick notes on Web3*
 

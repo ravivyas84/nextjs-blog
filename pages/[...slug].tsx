@@ -12,12 +12,16 @@ export default function Post({
     title: string
     date: string
     contentHtml: string
+    description: string
   }
 }) {
   return (
     <Layout>
       <Head>
         <title>{postData.title}</title>
+        <meta name="description" content={postData.description} />
+        <meta name="og:description" content={postData.description} />
+        <meta name="og:title" content={postData.title} />
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{postData.title}</h1>

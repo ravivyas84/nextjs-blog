@@ -15,7 +15,7 @@ export default function Footer() {
       <p>
         Design/Project inspired by
         <a href="https://github.com/philhawksworth/medium-export">
-          Phil Hawksworth
+           Phil Hawksworth
         </a>
       </p>
     </div>
