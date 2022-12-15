@@ -31,7 +31,7 @@ export function getAllTagsData() {
     }
   })
   
-  // console.log("Tags: "+ tags.toString());
+  console.log("Tags: "+ tags.toString());
   // const flatTags = tags.flat(1);
   // console.log("Tags: "+ JSON.stringify(flatTags));
 
@@ -41,13 +41,19 @@ export function getAllTagsData() {
   }
   
   const groupByCounter = (key : number) => (result : PropObject ,current : string ) => {
-  
-    result[current[key]] = result[current[key]] ? result[current[key]] + 1 : 1;
+    const splitString = current.toString().split(",");
+    splitString.forEach((tag) => {
+      // console.log("Split Tag:" + tag);
+      console.log("Key : " + key + " ::: " + "current: " + current.toString() + ":::" + current.length);
+      result[tag] = result[tag] ? result[tag] + 1 : 1;
+    })
     return result;
   };
   
   const group = tags.reduce(groupByCounter(0),{});
   
+  console.log("Tag Count: "+ JSON.stringify(group));
+
   var tagArray: {
     key: string;
     value: number;

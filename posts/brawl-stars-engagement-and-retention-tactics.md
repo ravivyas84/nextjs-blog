@@ -4,7 +4,7 @@ date: "2018-12-18"
  
 tags: 
   - growth 
-  - Engagement 
+  - engagement 
 layout: layouts/posts.njk
 slug: brawl-stars-engagement-and-retention-tactics
 
