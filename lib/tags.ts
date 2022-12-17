@@ -10,8 +10,6 @@ export function getAllTagsData() {
   const fileNames = fs.readdirSync(postsDirectory)
   var tags:string[] = [];
   const allTags = fileNames.map(fileName => {
-    // Remove ".md" from file name to get id
-    // const id = fileName.replace(/\.md$/, '')
 
     // Read markdown file as string
     const fullPath = path.join(postsDirectory, fileName)
@@ -19,11 +17,7 @@ export function getAllTagsData() {
 
     // Use gray-matter to parse the post metadata section
     const matterResult = matter(fileContents)
-    // const date = parseISO(matterResult.data.date)
     
-    // const permaLink = format(date, 'yyyy') + "/" +  format(date, 'LL') + "/" + format(date, 'dd') + "/" + matterResult.data.slug
-    
-    // console.log("Tags: "+ JSON.stringify(matterResult.data.tags));
     // Combine the data with the id
     tags.push(matterResult.data.tags);
     return {
@@ -31,11 +25,6 @@ export function getAllTagsData() {
     }
   })
   
-  // console.log("Tags: "+ tags.toString());
-  // const flatTags = tags.flat(1);
-  // console.log("Tags: "+ JSON.stringify(flatTags));
-
-
   interface PropObject {
     [index: string]: number;
   }
@@ -83,9 +72,7 @@ export function getAllTagsPages(tag:string) {
     tags: string[];
   }[] = [];
   const allTags = fileNames.map(fileName => {
-    // Remove ".md" from file name to get id
-    // const id = fileName.replace(/\.md$/, '')
-
+    
     // Read markdown file as string
     const fullPath = path.join(postsDirectory, fileName)
     const fileContents = fs.readFileSync(fullPath, 'utf8')
@@ -95,10 +82,7 @@ export function getAllTagsPages(tag:string) {
     const date = parseISO(matterResult.data.date)
     
     const permaLink = format(date, 'yyyy') + "/" +  format(date, 'LL') + "/" + format(date, 'dd') + "/" + matterResult.data.slug
-    
-    // console.log("Tags: "+ JSON.stringify(matterResult.data.tags));
-    // Combine the data with the id
-    // if(matterResult.data.tags.)
+
     const searchTag = JSON.stringify(matterResult.data.tags).toLowerCase();
     // console.log("Tag from file: "+ searchTag)
     if(searchTag.indexOf(tag.toLowerCase(),0)>0){
@@ -141,8 +125,3 @@ export function getAllTagPermas() {
   return tagPermas;
 
 }
-
-// export interface TAG {
-//   key: string;
-//   count: number;
-// }[]

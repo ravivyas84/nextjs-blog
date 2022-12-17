@@ -9,7 +9,7 @@ I am an entrepreneur at heart. As a perpetual learner, my career has taken me fr
 
 <div>
 <Image
-        src="/assets/ravivyas.png"
+        src="/assets/ravivyas.avif"
         alt="Picture of Ravi Vyas"
         width={131}
         height={149}
