@@ -10,7 +10,7 @@ export default function Footer() {
         Powered by <a href="https://nextjs.org/">NextJS</a>
       </p>
       <p>
-        Hosted on <a href="https://www.netlify.com">Netlify</a>.
+        Hosted on <a href="https://vercel.com/">Vercel</a>.
       </p>
       <p>
         Design/Project inspired by
