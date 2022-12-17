@@ -7,7 +7,7 @@ import Header from './headers/Header'
 import Footer from './footers/Footer'
 
 const name = 'Ravi Vyas'
-export const siteTitle = 'Next.js Sample Website'
+export const siteTitle = 'Ravi Vyas Blog'
 
 export default function Layout({
   children,
@@ -32,6 +32,7 @@ export default function Layout({
         /> */}
         {/* <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" /> */}
+         <script async defer data-website-id="b2485249-6ade-4ba4-93f8-d9b89f3129f6" src="https://umami.ravivyas.com/umami.js"></script>
       </Head>
       <Header />
       <main>{children}</main>
