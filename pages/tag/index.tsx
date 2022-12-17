@@ -19,7 +19,7 @@ export default function Home({
     value: number;
   }[];
 }) {
-  console.log("Props:" + JSON.stringify(allTags))
+  // console.log("Props:" + JSON.stringify(allTags))
   return (
     <div className={styles.container}>
       <Head>
@@ -56,7 +56,7 @@ export default function Home({
 export const getStaticProps: GetStaticProps = async () => {
   // Pull 10 posts
   const allTags =  getAllTagsData();
-  console.log("Sorted posts:: " + JSON.stringify(allTags));
+  // console.log("Sorted posts:: " + JSON.stringify(allTags));
 
   return {
     props: {

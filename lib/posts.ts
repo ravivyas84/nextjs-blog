@@ -29,7 +29,7 @@ export function getSortedPostsData() {
     
     const permaLink = format(date, 'yyyy') + "/" +  format(date, 'LL') + "/" + format(date, 'dd') + "/" + matterResult.data.slug
     
-    console.log("Page Data: "+ JSON.stringify(matterResult.data));
+    // console.log("Page Data: "+ JSON.stringify(matterResult.data));
 
     // Combine the data with the id
     return {
@@ -93,7 +93,7 @@ export function getAllPostIds() {
 }
 
 export async function getPostData(slug: [string]) {
-  console.log("Post data requested : " + JSON.stringify(slug))
+  // console.log("Post data requested : " + JSON.stringify(slug))
   const id = slug[slug.length-1];
   const fullPath = path.join(postsDirectory, `${id}.md`)
   const fileContents = fs.readFileSync(fullPath, 'utf8')

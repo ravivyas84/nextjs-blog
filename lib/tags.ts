@@ -31,7 +31,7 @@ export function getAllTagsData() {
     }
   })
   
-  console.log("Tags: "+ tags.toString());
+  // console.log("Tags: "+ tags.toString());
   // const flatTags = tags.flat(1);
   // console.log("Tags: "+ JSON.stringify(flatTags));
 
@@ -44,7 +44,7 @@ export function getAllTagsData() {
     const splitString = current.toString().split(",");
     splitString.forEach((tag) => {
       // console.log("Split Tag:" + tag);
-      console.log("Key : " + key + " ::: " + "current: " + current.toString() + ":::" + current.length);
+      // console.log("Key : " + key + " ::: " + "current: " + current.toString() + ":::" + current.length);
       result[tag] = result[tag] ? result[tag] + 1 : 1;
     })
     return result;
@@ -52,7 +52,7 @@ export function getAllTagsData() {
   
   const group = tags.reduce(groupByCounter(0),{});
   
-  console.log("Tag Count: "+ JSON.stringify(group));
+  // console.log("Tag Count: "+ JSON.stringify(group));
 
   var tagArray: {
     key: string;
@@ -72,7 +72,7 @@ export function getAllTagsData() {
 }
 
 export function getAllTagsPages(tag:string) {
-  console.log("Pages requested for: " + tag);
+  // console.log("Pages requested for: " + tag);
   // Get file names under /posts
   const fileNames = fs.readdirSync(postsDirectory)
   var tags:{
@@ -118,7 +118,7 @@ export function getAllTagsPages(tag:string) {
         ...(matterResult.data as { date: string; title: string })
     }
   })
-  console.log("Links : " + JSON.stringify(tags));
+  // console.log("Links : " + JSON.stringify(tags));
   return tags;
 }
 
@@ -136,7 +136,7 @@ export function getAllTagPermas() {
     }
   })  
 
-  console.log("Tag Paths : " + JSON.stringify(tagPermas));
+  // console.log("Tag Paths : " + JSON.stringify(tagPermas));
   
   return tagPermas;
 

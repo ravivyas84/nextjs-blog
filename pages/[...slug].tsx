@@ -47,7 +47,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  console.log("Page Requested : " + JSON.stringify(params?.slug))
+  // console.log("Page Requested : " + JSON.stringify(params?.slug))
   const postData = await getPostData(params?.slug as [string])
   return {
     props: {

@@ -62,7 +62,7 @@ export default function Home({
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = getAllTagPermas()
   // const paths = getAllPostIds()
-  console.log("Paths: " + JSON.stringify(paths))
+  // console.log("Paths: " + JSON.stringify(paths))
   return {
     paths,
     fallback: false
@@ -73,9 +73,9 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   // Pull 10 posts
   
   const tag = params?.id!
-  console.log("Tag Param:: " + tag);
+  // console.log("Tag Param:: " + tag);
   const allTagPages =  getAllTagsPages(tag as string);
-  console.log("Tag Pages:: " + JSON.stringify(allTagPages ));
+  // console.log("Tag Pages:: " + JSON.stringify(allTagPages ));
   return {
     props: {
       allTagPages,
