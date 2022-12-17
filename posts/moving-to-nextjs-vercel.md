@@ -9,7 +9,7 @@ layout: layouts/posts.njk
 ---
 
 
-I have been tinkering around with a lot of Front end franeworks recently, and the best way to learn them is to build/rebuild your own blog. 
+I have been tinkering around with a lot of Frontend frameworks recently, and the best way to learn them is to build/rebuild your own blog. 
 
 As a part of that process, this website is now powered by NextJS and is running on Vercel. The combo does a lot of heavy lifting wrt performance and best practices. I don't want to be the one keep track and enforcing best practices. 
 
