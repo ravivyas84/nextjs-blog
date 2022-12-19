@@ -54,6 +54,6 @@ I hold a Masters in Computer Science from Florida State University & a Bachelors
 
 ## Around the internets
 
-- [Mastodon]("https://mastodon.social/@ravi)
+- [Mastodon](https://mastodon.social/@ravi)
 - [Twitter](https://twitter.com/ravivyas84)
 - [LinkedIn](https://www.linkedin.com/in/ravivyas/)
