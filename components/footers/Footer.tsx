@@ -4,11 +4,7 @@ export default function Footer() {
   return (
     <div className={styles.container}>
       <p>
-        Built by Ravi Vyas
-      </p>
-      <p>
-        <a rel="me" href="https://mastodon.social/@ravi">Mastodon</a>
-        <a href="https://twitter.com/ravivyas84">Twitter</a>
+        Built by <a rel="me" href="https://mastodon.social/@ravi">Ravi Vyas</a>
       </p>
       <p>
         Powered by <a href="https://nextjs.org/">NextJS</a>
