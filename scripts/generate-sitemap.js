@@ -12,7 +12,7 @@ function addPage(page) {
   const route = path === '/index' ? '' : path
 
   return `  <url>
-    <loc>${`https://ravivyas.com/${route}`}</loc>
+    <loc>${`https://ravivyas.com${route}`}</loc>
     <changefreq>hourly</changefreq>
   </url>`
 }
@@ -35,7 +35,7 @@ function getAllPostPermas() {
 
 
     // Combine the data with the id
-    return "" + format(date, 'yyyy')+"/"+format(date, 'LL')+"/"+format(date, 'dd')+"/"+matterResult.data.slug
+    return "/" + format(date, 'yyyy')+"/"+format(date, 'LL')+"/"+format(date, 'dd')+"/"+matterResult.data.slug
   })
 
   // console.log("Data : " + JSON.stringify(allPostsData));
