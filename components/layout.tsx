@@ -8,6 +8,7 @@ import Footer from './footers/Footer'
 
 const name = 'Ravi Vyas'
 export const siteTitle = 'Ravi Vyas Blog'
+let env = process.env.NODE_ENV;
 
 export default function Layout({
   children,
@@ -32,7 +33,12 @@ export default function Layout({
         /> */}
         {/* <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" /> */}
-         <script async defer data-website-id="b2485249-6ade-4ba4-93f8-d9b89f3129f6" src="https://umami.ravivyas.com/umami.js"></script>
+        { env === 'development' ? "": <script async defer data-website-id="b2485249-6ade-4ba4-93f8-d9b89f3129f6" src="https://umami.ravivyas.com/umami.js"></script>}
+        <link
+          rel="preload"
+          href="https://unpkg.com/prismjs@0.0.1/themes/prism-tomorrow.css"
+          as="script"
+        />
       </Head>
       <Header />
       <main>{children}</main>

@@ -5,7 +5,7 @@ slug: why-your-key-metrics-should-be-compound-metrics
 tags: 
   - metrics
 layout: layouts/posts.njk
-
+description: Compound metrics, such as ratios, are often more reliable indicators of performance than singular metrics, as they are harder to manipulate and provide a more comprehensive understanding of the system
 ---
 Look around you, some of the most critical data points around you are Ratios, which are essentially Compound Metrics, i.e metrics made from 2 or more metrics. For the stock market, some of the popular metrics are ratios like the Profit to Earning percentage, Earnings Per Share, Moving averages (averages are ratios too), and more. From Debt to GDP ratio to gross margins, most of the critical metrics/indicators are ratios.
 

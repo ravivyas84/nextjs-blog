@@ -7,6 +7,7 @@ import remarkRehype from 'remark-rehype'
 import rehypeRaw from 'rehype-raw'
 import rehypeSanitize from 'rehype-sanitize'
 import rehypeStringify from 'rehype-stringify'
+import prism from 'remark-prism'
 import html from 'remark-html'
 import { parseISO, format } from 'date-fns'
 import { json } from 'stream/consumers'
@@ -114,7 +115,8 @@ export async function getPostData(slug: [string]) {
   .use(remarkParse)
   .use(remarkRehype, {allowDangerousHtml: true})
   .use(rehypeRaw)
-  .use(rehypeSanitize)
+  // .use(rehypeSanitize)
+  .use(prism)
   .use(rehypeStringify)
   .process(matterResult.content)
   

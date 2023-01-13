@@ -8,7 +8,7 @@ twitter: https://twitter.com/ravivyas84/status/1574060800712417280
 tags: 
   - product-management
   - post
-description: Product PRDs are more than just documents about the product, they say a lot about the company.
+description: PRDs are not a document, but rather a reflection of a company's communication culture. Depending on the size and ownership of the product, the PRD can be used as a contract or a reference for the product manager. The best PRDs are tailored to the language of the organization.
 ---
 I believe where people go wrong is treating Product Requirements Docs (PRDs) as a universal tool and using templates sourced from the Internet.
 

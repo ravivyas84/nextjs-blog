@@ -96,3 +96,12 @@ blockquote cite:before {content: ' \2015 '}
 article img{
   max-width: 800px;
 }
+
+.remark-highlight {
+  overflow-x: scroll;
+  background: #f6f8fa;
+  padding: 0.75rem;
+  border-radius: 5px;
+  font-size: 0.875rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}

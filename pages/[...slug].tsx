@@ -4,6 +4,7 @@ import Head from 'next/head'
 import Date from '../components/date'
 import utilStyles from '../styles/utils.module.css'
 import { GetStaticProps, GetStaticPaths } from 'next'
+import Link from 'next/link'
 
 export default function Post({
   postData
@@ -14,14 +15,19 @@ export default function Post({
     contentHtml: string
     description: string
     permaLink: string
+    twitter: string
+    hnlink: string
   }
 }) {
   return (
     <Layout>
       <Head>
-        <title>{postData.title}</title>
-        <meta name="description" content={postData.description} />
-        <meta name="og:description" content={postData.description} />
+        <title>{postData.title} | Blog post - Ravi Vyas</title>
+        //if else condition to check if description is empty
+        {postData.description ? <meta name="description" content={postData.description} /> : ""}
+        {postData.description ? <meta name="og:description" content={postData.description} /> : ""}
+          
+        
         <meta name="og:title" content={postData.title} />
         <link rel="canonical" href={`https://ravivyas.com/${postData.permaLink}`}></link>
       </Head>
@@ -32,6 +38,9 @@ export default function Post({
         </div>
         <div className={"content"} dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
+      {postData.twitter ? <Link href={postData.twitter}><a>Twitter Discussions</a></Link>: ""}
+      <br />
+      {postData.hnlink ? <Link href={postData.hnlink}><a>Hacker News</a></Link> : ""}
     </Layout>
   )
 }
