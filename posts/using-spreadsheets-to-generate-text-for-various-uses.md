@@ -13,7 +13,7 @@ Here is another reason I love spreadsheets, it is great at generating large volu
 
 ## Generate multiple commands to run in a CLI
 
-I actually have 2 examples here, the first one is where I generated 26 curl commands to download the 28 annual letters. I could do this because the only thing that changed in the link was the year. Here is the link for the 2017 letter
+I actually have 2 examples here, the first one is where I generated 26 curl commands to download the 26 annual letters. I could do this because the only thing that changed in the link was the year. Here is the link for the 2017 letter
 
 [`https:/berkshirehathaway.com/letters/2017ltr.pdf`](https:/berkshirehathaway.com/letters/2017ltr.pdf)
 
