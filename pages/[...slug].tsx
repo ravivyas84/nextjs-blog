@@ -23,7 +23,7 @@ export default function Post({
     <Layout>
       <Head>
         <title>{postData.title} | Blog post - Ravi Vyas</title>
-        //if else condition to check if description is empty
+        {/* if else condition to check if description is empty */}
         {postData.description ? <meta name="description" content={postData.description} /> : ""}
         {postData.description ? <meta name="og:description" content={postData.description} /> : ""}
           
