@@ -1,8 +1,8 @@
 ---
-title: 5 Things You Need Before Building The Product Roadmap
-date: "2018-10-28"
+title: Bad Pricing Reveals Leadership Deficiencies
+date: "2023-09-24"
  
-slug: 5-things-you-need-before-building-the-product-roadmap
+slug: bad-pricing-reveals-leadership-deficiencies
 
 
 tags: 
