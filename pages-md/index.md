@@ -26,7 +26,7 @@ My (soon to be restarted) podcast is [Multiple Lenses](https://multiplelenses.co
 
 ## Professional Experience
 
-- Lead PRoduct Manger - Lowes India
+- Lead Product Manager - Lowes India
 - Head of Product - Jambox Games
 - Product & Growth Consultant - Various
 - Head of Growth - Arctype
