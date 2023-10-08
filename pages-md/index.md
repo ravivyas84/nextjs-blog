@@ -5,7 +5,9 @@ layout: layouts/home.njk
 
 ## About
 
-I am an entrepreneur at heart. As a perpetual learner, my career has taken me from being an Android developer to attempting to build various products and startups. On the way, I worked in Mobile Advertising, Podcasting, Media & Marketing Automation industries. Currently I am working at the intersection of Mobile Games, Data Analytics and SaaS at Jambox Games
+I am a seasoned technical product manager who has shipped products for developers in advertising, gaming, marketing, analytics, and software supply chain. I have worked on SDKs, developer dashboards, and internal developer tools.
+
+I am an entrepreneur at heart. As a perpetual learner, my career has taken me from being an Android developer to attempting to build various products and startups. Along the way, I have worked in mobile advertising, podcasting, media & marketing automation, mobile games, data analytics, and mobile game publishing. Currently, I am the Lead Product Manager for the Compute Platform at Lowe's.  India. I have built a Google Sheets Plugin as a side project [StitchIQ](https://workspace.google.com/marketplace/app/stitchiq/931004878305), and have also built software for close friends.
 
 <div>
 <Image
@@ -16,11 +18,7 @@ I am an entrepreneur at heart. As a perpetual learner, my career has taken me fr
       />
 </div>
 
-The only _"success"_ w.r.t my startups was Odiocast, where we were working on making Podcasting simpler, which got acquired by Yourstory within three months of inception. In reality, my experiences have been stepping stones for my understanding of both people and products that serve them.
-
-My current interests lie in [Product Management](/tag/product-management/), [Analytics](/tag/metrics), [Growth](/tag/growth/) driven by Content & [SEO](/tag/seo/) & [Community](/tag/community/) & an eternal love for [Entrepreneurship](/tag/entrepreneurship/)
-
-
+My current interests lie in ~[Product Management](/tag/product-management/)~, Software Supply Chain, Developer Tools, and an eternal love for ~[Entrepreneurship](/tag/entrepreneurship/).
 
 ## Podcast
 
@@ -28,6 +26,7 @@ My (soon to be restarted) podcast is [Multiple Lenses](https://multiplelenses.co
 
 ## Professional Experience
 
+- Lead PRoduct Manger - Lowes India
 - Head of Product - Jambox Games
 - Product & Growth Consultant - Various
 - Head of Growth - Arctype
