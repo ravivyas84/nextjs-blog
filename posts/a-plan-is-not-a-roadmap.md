@@ -22,4 +22,4 @@ A product roadmap always shares and takes into account the vision of the product
 
 ---
 
-If you liked this short post you might find this post useful: [5 Things You Need Before Building The Product Roadmap]("https://ravivyas.com/2018/10/28/5-things-you-need-before-building-the-product-roadmap")
+If you liked this short post you might find this post useful: [5 Things You Need Before Building The Product Roadmap](/2018/10/28/5-things-you-need-before-building-the-product-roadmap)
