@@ -1,8 +1,8 @@
 ---
-title: Seperate the consumers & their Problems
+title: Decouple Consumers from Their Issues
 date: "2024-05-01"
  
-slug: seperate-consumers-and-their-problems
+slug: decouple-consumers-and-their-issues
 
 
 tags: 
