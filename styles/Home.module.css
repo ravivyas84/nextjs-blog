@@ -113,6 +113,7 @@
     width: 100%;
     flex-direction: column;
   }
+
 }
 
 @media (prefers-color-scheme: dark) {
